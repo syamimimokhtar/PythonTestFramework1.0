@@ -6,7 +6,7 @@ Created on Aug 25, 2011
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 import unittest
-#You need to import functionR file as at least setUp function is located there.
+#You need to import functionR file as at least setUp function is located in functionR.py script
 import functionR
 
 
