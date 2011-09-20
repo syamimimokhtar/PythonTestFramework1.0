@@ -2,11 +2,14 @@
 Created on Aug 25, 2011
 
 @author: fairul.fahrurazi
+This is just an example of selenium 2.0 test cases python based for reference .. 
 '''
+
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 import unittest
-#You need to import functionR file as at least setUp function is located in functionR.py script
+#You need to import functionR.py file as at least setUp function is located there .If you think any functions that will be hevily used,
+#it's a good thing to define in  functionR.py file ,so a test case can just call it to re-use it .
 import functionR
 
 
