@@ -13,10 +13,10 @@ This is basically the selenium 2.0 python test case framework .This an attempt t
 
 3.  Provide a Junit xml report . 
 
-# Wiki Pages 
-**[How to Install](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Install)**
-**[Getting Started](https://github.com/fairul82/PythonTestFramework1.0/wiki/Getting-Started)**  
-**[How to Setup Environment](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Setup-Environment)**
-**[How to Run](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Run)**
+# Link to wiki  
+**[How to Install](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Install)** 
+**[Getting Started](https://github.com/fairul82/PythonTestFramework1.0/wiki/Getting-Started)**   
+**[How to Setup Environment](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Setup-Environment)** 
+**[How to Run](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Run)** 
 
 
