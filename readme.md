@@ -1,4 +1,4 @@
-# Readme!!  
+# Readme  
 
 This is basically the selenium 2.0 python test case framework .This an attempt to provide the following features  
 
@@ -14,9 +14,9 @@ This is basically the selenium 2.0 python test case framework .This an attempt t
 3.  Provide a Junit xml report . 
 
 # Wiki Pages 
-[[How to Install]]  
-[[Getting Started]]  
-[[How to Setup Environment]]  
-[[How to Run]]  
-[[How to integrate with Continuous Integration tool ÐJenkins or Hudson]]  
-[[For Beginner : How to Create Python Test Case using Selenium IDE]]
+**[How to Install](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Install)**
+**[Getting Started](https://github.com/fairul82/PythonTestFramework1.0/wiki/Getting-Started)**  
+**[How to Setup Environment](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Setup-Environment)**
+**[How to Run](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Run)**
+
+
