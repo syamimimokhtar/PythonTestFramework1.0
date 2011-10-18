@@ -3,7 +3,7 @@
 This is basically the selenium 2.0 python test case framework .This an attempt to provide the following features  
 
 1. consolidates all selenium 2.0 python test case and run them using a nosetests against a configurable parameters  
-    * Browsers type Ð IE and Firefox and Chrome etc  
+    * Browsers type , IE and Firefox and Chrome etc  
     * Selenium Hub Server  
     * Selenium Hub Server Port  
     * Base URL
@@ -14,9 +14,9 @@ This is basically the selenium 2.0 python test case framework .This an attempt t
 3.  Provide a Junit xml report . 
 
 # Link to wiki  
-**[How to Install] (https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Install)** 
-**[Getting Started] (https://github.com/fairul82/PythonTestFramework1.0/wiki/Getting-Started)**   
-**[How to Setup Environment] (https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Setup-Environment)** 
+**[How to Install,](https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Install)** 
+**[Getting Started,] (https://github.com/fairul82/PythonTestFramework1.0/wiki/Getting-Started)**   
+**[How to Setup Environment,] (https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Setup-Environment)** 
 **[How to Run] (https://github.com/fairul82/PythonTestFramework1.0/wiki/How-to-Run)** 
 
 
